@@ -1,0 +1,19 @@
+{
+  "name": "jun-ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:junui": "gulp -f packages/components/script/build/index.ts",
+    "publish:junui": "gulp -f packages/components/script/publish/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "less": "^4.2.0",
+    "release-it": "^17.0.0",
+    "typescript": "^5.3.2",
+    "vue": "^3.2.36"
+  }
+}

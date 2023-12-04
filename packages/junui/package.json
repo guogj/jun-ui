@@ -1,0 +1,28 @@
+{
+  "name": "junui",
+  "version": "1.0.1",
+  "main": "lib/index.js",
+  "module": "es/index.mjs",
+  "files": [
+    "es",
+    "lib"
+  ],
+  "keywords": [
+    "junui",
+    "vue3组件库"
+  ],
+  "sideEffects": [
+    "**/*.css"
+  ],
+  "author": "gjguo",
+  "license": "MIT",
+  "description": "",
+  "typings": "lib/index.d.ts",
+  "scripts": {
+    "release": "release-it"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/guogj/jun-ui"
+  }
+}
