@@ -9,7 +9,8 @@
   ],
   "keywords": [
     "vue3-junui",
-    "vue3组件库"
+    "vue3组件库",
+    "ts"
   ],
   "sideEffects": [
     "**/*.css"

@@ -6,7 +6,8 @@
   "type": "module",
   "scripts": {
     "build:junui": "gulp -f packages/components/script/build/index.ts",
-    "publish:junui": "gulp -f packages/components/script/publish/index.ts"
+    "publish:junui": "gulp -f packages/components/script/publish/index.ts",
+    "junui:dev": "pnpm run --filter ./play dev"
   },
   "keywords": [],
   "author": "",
