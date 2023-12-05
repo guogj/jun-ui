@@ -1,5 +1,5 @@
 {
-  "name": "jun1ui",
+  "name": "vue3-junui",
   "version": "1.0.1",
   "main": "lib/index.js",
   "module": "es/index.mjs",
@@ -8,7 +8,7 @@
     "lib"
   ],
   "keywords": [
-    "junui",
+    "vue3-junui",
     "vue3组件库"
   ],
   "sideEffects": [
