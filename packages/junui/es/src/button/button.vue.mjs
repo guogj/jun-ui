@@ -1,5 +1,5 @@
 import { defineComponent as e, computed as u, openBlock as s, createElementBlock as l, normalizeClass as p, unref as c, renderSlot as a } from "vue";
-import "./style/index.css.mjs";
+import "./style/index.css";
 const m = e({ name: "j-button" }), d = /* @__PURE__ */ e({
   ...m,
   props: {

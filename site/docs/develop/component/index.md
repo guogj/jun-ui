@@ -6,13 +6,13 @@
 ```
 -- packages
 
-  -- cli 脚手架(create-easyest)
+  -- cli 脚手架(create-junui)
 
-  -- components 本地开发组件库(@easyest/components)
+  -- components 本地开发组件库(@junui/components)
 
-  -- easyest 打包后组件库,既要发布的组件库(easyest)
+  -- junui 打包后组件库,既要发布的组件库(junui)
 
-  -- utils 工具包(@easyest/utils)
+  -- utils 工具包(@junui/utils)
 
 -- play 测试开发组件库的Vue3项目目录
 
